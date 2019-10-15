@@ -1,0 +1,64 @@
+.text-center {
+  text-align: center
+}
+
+.oi-x {
+	position: absolute;
+	right: 10px;
+	top: 10px;
+	color: darkgrey;
+	font-size: 12px;
+}
+
+img {
+	padding-top: 20px;
+}
+
+.list-group-item {
+    padding: 0.25rem 1.25rem;
+}
+
+.form-control#bodyweightinput {
+    width: 30%;
+}
+
+.display-3 {
+    font-size: 4.5rem;
+    font-weight: 500;
+    font-family: fantasy;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #727279;
+    border-color: #f8f9fa;
+}
+
+.btn-primary:hover {
+    color: #fff;
+    background-color: #5e926a;
+    border-color: #5e926a;
+}
+
+.h3, h3 {
+    font-size: 1.3rem;
+    font-weight: 400;
+}
+
+#packed {
+    background-color: #edf0f3;
+    padding: 10px;
+    padding-top: 15px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+.startpacking {
+    margin-right: 30px;
+}
+
+
+
+
+
+
